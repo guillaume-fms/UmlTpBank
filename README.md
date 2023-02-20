@@ -3,6 +3,7 @@
 TP 1 : [PooTP1Bank] (Version 1.0 de l’appli bancaire) [Groupe 4 personnes]
 
 L’expression des besoins du client :
+
 Une application bancaire permettant de gérer des comptes en ligne in fine. Il indique que
 l’application dans sa version définitive devra gérer 2 types d’utilisateurs :
 
